@@ -1,3 +1,3 @@
-Name: Your Name
-GitHub username: YOUR_GITHUB_USERNAME
-Email: YOUR_EMAIL
+Name: Sebastian Tilaguy
+GitHub username: Tilaguy
+Email: sebastian.tilaguy@gmail.com
