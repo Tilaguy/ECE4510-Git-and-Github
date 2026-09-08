@@ -1,0 +1,12 @@
+numpy
+opencv-python
+matplotlib
+scikit-learn
+scipy
+pandas
+pillow
+scikit-image
+jupyter
+notebook
+ipykernel
+ipywidgets
